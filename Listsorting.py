@@ -8,6 +8,4 @@ states = ['CA', 'AK', 'TX', 'AZ', 'NY', 'WA']
 # print (states)
 #
 
-sorted_states = states.sort()
-reversed_states = states.reverse()
-print(sorted_states)
+print(states)
