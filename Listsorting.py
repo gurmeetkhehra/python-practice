@@ -2,11 +2,10 @@ states = ['CA', 'AK', 'TX', 'AZ', 'NY', 'WA']
 # print (states)
 # states.sort()
 # print (states)
-# states.reverse()
+states.reverse()
 # print (states)
 # states.sort()
 # print (states)
-#
 
-print(states)
-#my test comment
+reversed_states = states.reverse()
+print(reversed_states)
