@@ -45,7 +45,7 @@ print (name + message1 +  message )
 # favorite_alberteinstein = 'scientist'
 # favorite_alberteinstein.rstrip()
 # favorite_alberteinstein.lstrip()
-# favorite_alberteinstein.strip()
+# favorite_alberteinstein.strip(famous_name)
 
 
 

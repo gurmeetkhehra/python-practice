@@ -18,3 +18,30 @@ print( "A person who never made a mistake never tried anything new."  + full_nam
 
 famous_person = ('steve jobs')
 print ("There is no reason to follow your heart." + famous_person.title() + ".")
+
+print ("Albert\nEinstein")
+print ("Albert\t Eninstein")
+#
+favorite_alberteinstein = 'scientist'
+favorite_alberteinstein.rstrip()
+favorite_alberteinstein.lstrip()
+favorite_alberteinstein.strip()
+print(favorite_alberteinstein)
+
+integer = 5 + 3
+integer1 = 10 - 2
+integer2 = 4 * 2
+integer3 = 32 / 4
+
+
+print (integer)
+print (integer1)
+print ( integer2)
+print ( integer3)
+
+
+khivi = ( '29', '26', '23')
+khivi1 = "My favorite number is "
+
+print (khivi1 + khivi[0])
+
