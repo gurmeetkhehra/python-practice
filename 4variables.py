@@ -1,3 +1,9 @@
+# 2. Print name of five US cities with single quotes around it. All citites shall be printed in different lines.
+#
+# Q3. Print name of ten US states with double quotes around it. All states shall be printed in different lines.
+
+
+
 #string variables
 
 city1 =   ' San Jose'

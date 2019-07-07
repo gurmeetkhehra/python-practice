@@ -1,3 +1,9 @@
+# Q4. Create variables of all types supported by Python. Then print all of them along with their variable
+# name and variable value
+#
+# Q5. Write Python code to create integer and float variables, at least three of them each. Then print the sum of
+# respective integers and float variables on separate lines.
+
 #variable number
 
 first_interger = 40

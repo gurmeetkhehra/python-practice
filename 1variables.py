@@ -1,3 +1,7 @@
+# Q1. Create three variables to represent a Person's firstname, lastname and a greeting message.
+# Then print a message for that person's name and greeting all in one line.
+# Please only use ONE print statement
+
 #String variable
 firstname = ' Jasmine'
 
@@ -40,4 +44,3 @@ print (us_state7)
 print (us_state8)
 print  (us_state9)
 print (us_state10)
-
