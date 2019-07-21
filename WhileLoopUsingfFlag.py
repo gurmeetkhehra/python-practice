@@ -6,5 +6,3 @@ while active:
         active = False
     else:
         print(active)
-
-# 'quit' == ' quit'
